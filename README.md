@@ -33,7 +33,7 @@ do
 done
 
 cd ${dir}
-ls -al $dir
+ls -al .
 ```
 
 
